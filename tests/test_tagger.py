@@ -37,3 +37,10 @@ def test_tag_jobs_uses_cache_and_skips_api(monkeypatch):
     assert tagged[0].role == "Data & Analytics"
     assert usage.calls == 0
     assert new_cache == cache and new_cache is not cache
+
+
+def test_tag_jobs_raises_when_key_missing_and_posts_need_tags(monkeypatch):
+    import pytest
+    monkeypatch.delenv("GEMINI_API_KEY", raising=False)
+    with pytest.raises(RuntimeError, match="GEMINI_API_KEY"):
+        tag_jobs([job("new")], {})

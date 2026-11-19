@@ -1,1 +1,2092 @@
-{}
+{
+ "workday:marvell:2604257": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "workday:marvell:2604256": {
+  "role": "AI / ML",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "workday:marvell:2604255": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "workday:marvell:2604253": {
+  "role": "AI / ML",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "workday:pg:R000160037": {
+  "role": "Sales & Business Development",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:pg:R000162371": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:hp:3169164-1": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "workday:hp:UNI4884-1": {
+  "role": "Finance & Accounting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "workday:pwc:216252WD": {
+  "role": "Finance & Accounting",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "workday:pwc:197771WD": {
+  "role": "Finance & Accounting",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "workday:micron:JR105741": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "workday:micron:JR107694": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "workday:nvidia:JR2024423": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "workday:adobe:R173016": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "workday:motorolasolutions:R69750": {
+  "role": "Finance & Accounting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "workday:pfizer:4965168": {
+  "role": "Operations & Supply Chain",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "workday:abbott:31119200": {
+  "role": "Sales & Business Development",
+  "city": "Remote",
+  "job_type": "Full-time"
+ },
+ "workday:autodesk:23WD73769-1": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:rubrik:8166514": {
+  "role": "Product Management",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:rubrik:8305308": {
+  "role": "Finance & Accounting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:rubrik:8345283": {
+  "role": "Product Management",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:rubrik:8166537": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:stripe:8131339": {
+  "role": "Operations & Supply Chain",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:zscaler:5261002007": {
+  "role": "Operations & Supply Chain",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "lever:zeta:d7608271-a46f-4783-b5a9-05737398d320": {
+  "role": "Customer Support",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "lever:paytm:0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8": {
+  "role": "Software Engineering",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "lever:paytm:426a6834-1397-4e65-94af-69874c790805": {
+  "role": "HR & Recruiting",
+  "city": "Gurugram",
+  "job_type": "Internship"
+ },
+ "lever:paytm:0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02": {
+  "role": "HR & Recruiting",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "lever:paytm:9d497980-2032-440c-8bac-63fb53938acc": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "lever:paytm:6d7551f7-34c3-46a2-a4e4-18b29f15338c": {
+  "role": "HR & Recruiting",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "lever:paytm:88e8b698-8f03-4e09-9581-168f831fb3af": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "lever:paytm:95eadc2b-27bf-40fe-b6e6-93aaeadd08f7": {
+  "role": "HR & Recruiting",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "lever:fampay:213870db-ddfd-4519-9a57-54691d89cca5": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24": {
+  "role": "Cybersecurity",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "ashby:sarvam:bba82f34-1544-421e-a393-3edd8a5f4cb2": {
+  "role": "Marketing",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "smartrecruiters:744000162039884": {
+  "role": "Operations & Supply Chain",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000161763598": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000161048989": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000158699739": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000156768769": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000155907509": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000155454876": {
+  "role": "QA & Testing",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000154989438": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000153404949": {
+  "role": "Operations & Supply Chain",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000149572929": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000145185264": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000141254663": {
+  "role": "Consulting",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000139912639": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000139912519": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:744000135641599": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "smartrecruiters:743999901275018": {
+  "role": "QA & Testing",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "workday:citi:26933464": {
+  "role": "Finance & Accounting",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "workday:citi:25854531": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:citi:25849760": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:citi:25873675": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:citi:25843180": {
+  "role": "Operations & Supply Chain",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:citi:25832017-1": {
+  "role": "Finance & Accounting",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "workday:citi:25851377": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "workday:citi:261005443": {
+  "role": "DevOps & Cloud",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "workday:citi:261006954": {
+  "role": "Software Engineering",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "workday:db:R0415916": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:db:R0445347": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:db:R0357981": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:db:R0457970": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:db:R0458576": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "workday:db:R0456062": {
+  "role": "Finance & Accounting",
+  "city": "Jaipur",
+  "job_type": "Internship"
+ },
+ "workday:db:R0423513": {
+  "role": "Finance & Accounting",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "workday:marvell:2604254": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5940626913": {
+  "role": "Software Engineering",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960844842": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968520974": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969948319": {
+  "role": "HR & Recruiting",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5935985493": {
+  "role": "Sales & Business Development",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5937233390": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963459670": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963465021": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963461052": {
+  "role": "Software Engineering",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963460864": {
+  "role": "Marketing",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963470648": {
+  "role": "QA & Testing",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951619994": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955617319": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967714835": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969315040": {
+  "role": "Sales & Business Development",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970906046": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970906037": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970906038": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960623865": {
+  "role": "Finance & Accounting",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5942383573": {
+  "role": "Finance & Accounting",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963456849": {
+  "role": "Sales & Business Development",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951141604": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940947484": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940947485": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968520973": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970302589": {
+  "role": "AI / ML",
+  "city": "Remote",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963437726": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5946268459": {
+  "role": "Customer Support",
+  "city": "Jaipur",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964004039": {
+  "role": "Finance & Accounting",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963447297": {
+  "role": "Customer Support",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963455074": {
+  "role": "Sales & Business Development",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951141588": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951141593": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963464869": {
+  "role": "QA & Testing",
+  "city": "Multiple Cities",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970270704": {
+  "role": "Sales & Business Development",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5942816735": {
+  "role": "Marketing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960018885": {
+  "role": "Legal",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5964769808": {
+  "role": "Marketing",
+  "city": "Other City",
+  "job_type": "Internship"
+ },
+ "adzuna:5965395827": {
+  "role": "Marketing",
+  "city": "Other City",
+  "job_type": "Internship"
+ },
+ "adzuna:5963453787": {
+  "role": "Consulting",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "adzuna:5963445439": {
+  "role": "Customer Support",
+  "city": "Other City",
+  "job_type": "Internship"
+ },
+ "adzuna:5964783220": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5947929659": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Thiruvananthapuram",
+  "job_type": "Internship"
+ },
+ "adzuna:5971227931": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5969227431": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5955801164": {
+  "role": "Data & Analytics",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5939469040": {
+  "role": "Operations & Supply Chain",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970561555": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5952913908": {
+  "role": "Software Engineering",
+  "city": "Chennai",
+  "job_type": "Internship"
+ },
+ "adzuna:5948200460": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5969224109": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5945933851": {
+  "role": "UI/UX & Design",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5971230939": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5954458406": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5948224694": {
+  "role": "Data & Analytics",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "adzuna:5970569083": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5966107511": {
+  "role": "Marketing",
+  "city": "Gurugram",
+  "job_type": "Internship"
+ },
+ "adzuna:5942785596": {
+  "role": "Sales & Business Development",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953164188": {
+  "role": "Marketing",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "adzuna:5947067184": {
+  "role": "Cybersecurity",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954448830": {
+  "role": "Operations & Supply Chain",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5948224670": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960531759": {
+  "role": "Sales & Business Development",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5943348375": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954660921": {
+  "role": "Operations & Supply Chain",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961902249": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962942480": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5948220369": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953167104": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955808051": {
+  "role": "QA & Testing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961528561": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5958333091": {
+  "role": "Operations & Supply Chain",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940343137": {
+  "role": "Operations & Supply Chain",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5957247000": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960525895": {
+  "role": "Operations & Supply Chain",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968732314": {
+  "role": "Customer Support",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954484213": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964788756": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967668529": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5939121690": {
+  "role": "Sales & Business Development",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5941326338": {
+  "role": "Cybersecurity",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951889218": {
+  "role": "Finance & Accounting",
+  "city": "Gurugram",
+  "job_type": "Internship"
+ },
+ "adzuna:5965396554": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5959163093": {
+  "role": "Software Engineering",
+  "city": "Kochi",
+  "job_type": "Internship"
+ },
+ "adzuna:5961894672": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5953193225": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5940650992": {
+  "role": "Product Management",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5966483013": {
+  "role": "Software Engineering",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960294108": {
+  "role": "Content & Writing",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967330865": {
+  "role": "Finance & Accounting",
+  "city": "Remote",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963065845": {
+  "role": "Finance & Accounting",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970032549": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5952154130": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945043489": {
+  "role": "Customer Support",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970270678": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970270733": {
+  "role": "Software Engineering",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953085671": {
+  "role": "Sales & Business Development",
+  "city": "Remote",
+  "job_type": "Full-time"
+ },
+ "adzuna:5957856300": {
+  "role": "Software Engineering",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5944785600": {
+  "role": "Sales & Business Development",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965957336": {
+  "role": "HR & Recruiting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970549105": {
+  "role": "Data & Analytics",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5951878257": {
+  "role": "Other",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968068704": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969568922": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968068782": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5950768625": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Noida",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964544024": {
+  "role": "Other",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5948069534": {
+  "role": "Other",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951141597": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953121425": {
+  "role": "QA & Testing",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5939434210": {
+  "role": "Marketing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5948121819": {
+  "role": "Finance & Accounting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970077743": {
+  "role": "Finance & Accounting",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970699186": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961888919": {
+  "role": "Consulting",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5935157325": {
+  "role": "Finance & Accounting",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963559716": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964779195": {
+  "role": "DevOps & Cloud",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970551729": {
+  "role": "Finance & Accounting",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969228483": {
+  "role": "Finance & Accounting",
+  "city": "Noida",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953687302": {
+  "role": "Finance & Accounting",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964785973": {
+  "role": "DevOps & Cloud",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963434166": {
+  "role": "Finance & Accounting",
+  "city": "Indore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964762806": {
+  "role": "DevOps & Cloud",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970557216": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945565129": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945935662": {
+  "role": "Customer Support",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5947929610": {
+  "role": "HR & Recruiting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5947929568": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951895140": {
+  "role": "Operations & Supply Chain",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5939440540": {
+  "role": "Product Management",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961611225": {
+  "role": "HR & Recruiting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962007681": {
+  "role": "Finance & Accounting",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963425347": {
+  "role": "Finance & Accounting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5966815645": {
+  "role": "Operations & Supply Chain",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963469000": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5949471943": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953362436": {
+  "role": "Software Engineering",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5946966934": {
+  "role": "Data & Analytics",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "adzuna:5971724981": {
+  "role": "Sales & Business Development",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960726402": {
+  "role": "Customer Support",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962915913": {
+  "role": "AI / ML",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962915898": {
+  "role": "AI / ML",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962915903": {
+  "role": "AI / ML",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5942785615": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954658002": {
+  "role": "QA & Testing",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969226307": {
+  "role": "Data & Analytics",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969568962": {
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953363583": {
+  "role": "Operations & Supply Chain",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5943374156": {
+  "role": "Other",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961583632": {
+  "role": "Finance & Accounting",
+  "city": "Indore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5948121641": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5937668700": {
+  "role": "HR & Recruiting",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968301742": {
+  "role": "DevOps & Cloud",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5958336215": {
+  "role": "Operations & Supply Chain",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962007722": {
+  "role": "Sales & Business Development",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "adzuna:5937239935": {
+  "role": "Sales & Business Development",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5952342464": {
+  "role": "Customer Support",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963425941": {
+  "role": "Consulting",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967957763": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970563951": {
+  "role": "Marketing",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968539236": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963469781": {
+  "role": "Consulting",
+  "city": "Indore",
+  "job_type": "Internship"
+ },
+ "adzuna:5941184590": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5957253640": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963451402": {
+  "role": "Product Management",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963458461": {
+  "role": "Customer Support",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964786377": {
+  "role": "Finance & Accounting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970565054": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963437496": {
+  "role": "QA & Testing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955816449": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969803629": {
+  "role": "HR & Recruiting",
+  "city": "Chandigarh",
+  "job_type": "Internship"
+ },
+ "adzuna:5970699184": {
+  "role": "HR & Recruiting",
+  "city": "Thiruvananthapuram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970905956": {
+  "role": "Sales & Business Development",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967759401": {
+  "role": "Consulting",
+  "city": "Indore",
+  "job_type": "Internship"
+ },
+ "adzuna:5947202674": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954661059": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938542667": {
+  "role": "Marketing",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940947490": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5941828327": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940947486": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938642094": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938642062": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5944407222": {
+  "role": "Content & Writing",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953642363": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955031542": {
+  "role": "Consulting",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960996956": {
+  "role": "HR & Recruiting",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962480333": {
+  "role": "Operations & Supply Chain",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5957412084": {
+  "role": "Other",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938296214": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Multiple Cities",
+  "job_type": "Internship"
+ },
+ "adzuna:5948121698": {
+  "role": "Sales & Business Development",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970772076": {
+  "role": "Customer Support",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5959526380": {
+  "role": "Sales & Business Development",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938642057": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5968520972": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5935985491": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940947475": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5966482993": {
+  "role": "Finance & Accounting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961519412": {
+  "role": "Data & Analytics",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5935985487": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5971025548": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938542671": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962480227": {
+  "role": "Customer Support",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940639951": {
+  "role": "Content & Writing",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945043488": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5950768630": {
+  "role": "Sales & Business Development",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965184563": {
+  "role": "Customer Support",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938542669": {
+  "role": "Operations & Supply Chain",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940947478": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5937233402": {
+  "role": "QA & Testing",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963456900": {
+  "role": "HR & Recruiting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5937764632": {
+  "role": "Marketing",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5944001415": {
+  "role": "HR & Recruiting",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969730876": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953377341": {
+  "role": "Sales & Business Development",
+  "city": "Multiple Cities",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969247104": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5938159322": {
+  "role": "HR & Recruiting",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5955047448": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5963453932": {
+  "role": "Customer Support",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5970560266": {
+  "role": "Other",
+  "city": "Chennai",
+  "job_type": "Internship"
+ },
+ "adzuna:5967490112": {
+  "role": "Other",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5970900926": {
+  "role": "Marketing",
+  "city": "Remote",
+  "job_type": "Internship"
+ },
+ "adzuna:5938974741": {
+  "role": "QA & Testing",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5939392401": {
+  "role": "Cybersecurity",
+  "city": "Hyderabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5965564444": {
+  "role": "Other",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5960552619": {
+  "role": "Marketing",
+  "city": "Kochi",
+  "job_type": "Internship"
+ },
+ "adzuna:5970451324": {
+  "role": "Sales & Business Development",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5948346111": {
+  "role": "Product Management",
+  "city": "Remote",
+  "job_type": "Internship"
+ },
+ "adzuna:5970451321": {
+  "role": "HR & Recruiting",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5969315125": {
+  "role": "Consulting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5940851954": {
+  "role": "Marketing",
+  "city": "Remote",
+  "job_type": "Internship"
+ },
+ "adzuna:5960916530": {
+  "role": "Operations & Supply Chain",
+  "city": "Chennai",
+  "job_type": "Internship"
+ },
+ "adzuna:5963796645": {
+  "role": "Software Engineering",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969569137": {
+  "role": "Cybersecurity",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938296331": {
+  "role": "Content & Writing",
+  "city": "Mumbai",
+  "job_type": "Internship"
+ },
+ "adzuna:5936784660": {
+  "role": "DevOps & Cloud",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960916171": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5944629417": {
+  "role": "Software Engineering",
+  "city": "Chandigarh",
+  "job_type": "Internship"
+ },
+ "adzuna:5936840051": {
+  "role": "HR & Recruiting",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "adzuna:5936842881": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5935581376": {
+  "role": "AI / ML",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5934866123": {
+  "role": "Sales & Business Development",
+  "city": "Jaipur",
+  "job_type": "Internship"
+ },
+ "adzuna:5963459678": {
+  "role": "HR & Recruiting",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5970270431": {
+  "role": "Software Engineering",
+  "city": "Jaipur",
+  "job_type": "Internship"
+ },
+ "adzuna:5963457640": {
+  "role": "Marketing",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5969745682": {
+  "role": "Software Engineering",
+  "city": "Jaipur",
+  "job_type": "Internship"
+ },
+ "adzuna:5955889455": {
+  "role": "Finance & Accounting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954459378": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5945175387": {
+  "role": "Operations & Supply Chain",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5946349484": {
+  "role": "Operations & Supply Chain",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965370394": {
+  "role": "Operations & Supply Chain",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5950708421": {
+  "role": "Consulting",
+  "city": "Unknown",
+  "job_type": "Internship"
+ },
+ "adzuna:5963453464": {
+  "role": "Finance & Accounting",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963443162": {
+  "role": "Finance & Accounting",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964544011": {
+  "role": "Operations & Supply Chain",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951675621": {
+  "role": "Consulting",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5944001660": {
+  "role": "Sales & Business Development",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5944001659": {
+  "role": "Marketing",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945175331": {
+  "role": "Sales & Business Development",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945175404": {
+  "role": "Other",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945175391": {
+  "role": "Marketing",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5946349239": {
+  "role": "Other",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960996988": {
+  "role": "Operations & Supply Chain",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965201258": {
+  "role": "Customer Support",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5938296360": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954660801": {
+  "role": "Operations & Supply Chain",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955818028": {
+  "role": "Consulting",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955047269": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960996983": {
+  "role": "Customer Support",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965201250": {
+  "role": "Customer Support",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969223290": {
+  "role": "Sales & Business Development",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954395363": {
+  "role": "DevOps & Cloud",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5943647647": {
+  "role": "Product Management",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969793559": {
+  "role": "Customer Support",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965201202": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5941575702": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5953158136": {
+  "role": "Consulting",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5966089622": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945724137": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965257963": {
+  "role": "HR & Recruiting",
+  "city": "Coimbatore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964773941": {
+  "role": "Finance & Accounting",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5943126894": {
+  "role": "Customer Support",
+  "city": "Kochi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967990329": {
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940088960": {
+  "role": "UI/UX & Design",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5955617486": {
+  "role": "Software Engineering",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963449402": {
+  "role": "Finance & Accounting",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5971511019": {
+  "role": "Sales & Business Development",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5943353509": {
+  "role": "Software Engineering",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5948174228": {
+  "role": "UI/UX & Design",
+  "city": "Ahmedabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5947928993": {
+  "role": "Data & Analytics",
+  "city": "Kolkata",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951620753": {
+  "role": "UI/UX & Design",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963105071": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963432829": {
+  "role": "UI/UX & Design",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963434747": {
+  "role": "Data & Analytics",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963448199": {
+  "role": "Operations & Supply Chain",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961611246": {
+  "role": "UI/UX & Design",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5967980072": {
+  "role": "Product Management",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5956582554": {
+  "role": "QA & Testing",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954204335": {
+  "role": "Consulting",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963461969": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Noida",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963435559": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963431550": {
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963451087": {
+  "role": "DevOps & Cloud",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5958148197": {
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5962709012": {
+  "role": "Data & Analytics",
+  "city": "Kochi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964777650": {
+  "role": "Software Engineering",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964775826": {
+  "role": "AI / ML",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964778488": {
+  "role": "AI / ML",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964763904": {
+  "role": "AI / ML",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961898764": {
+  "role": "Finance & Accounting",
+  "city": "Noida",
+  "job_type": "Full-time"
+ },
+ "adzuna:5969231666": {
+  "role": "Software Engineering",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951620069": {
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963449819": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963451150": {
+  "role": "Core Engineering (Mech/Elec/Civil)",
+  "city": "Noida",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964196324": {
+  "role": "Operations & Supply Chain",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5939116470": {
+  "role": "Marketing",
+  "city": "Delhi",
+  "job_type": "Full-time"
+ },
+ "adzuna:5939116131": {
+  "role": "Cybersecurity",
+  "city": "Other City",
+  "job_type": "Full-time"
+ },
+ "adzuna:5960525344": {
+  "role": "Sales & Business Development",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965395935": {
+  "role": "Finance & Accounting",
+  "city": "Hyderabad",
+  "job_type": "Full-time"
+ },
+ "adzuna:5964198695": {
+  "role": "Finance & Accounting",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5965395946": {
+  "role": "Finance & Accounting",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5935156610": {
+  "role": "AI / ML",
+  "city": "Ahmedabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5963466660": {
+  "role": "Customer Support",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940656911": {
+  "role": "HR & Recruiting",
+  "city": "Ahmedabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5940628662": {
+  "role": "Software Engineering",
+  "city": "Ahmedabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5963456502": {
+  "role": "Finance & Accounting",
+  "city": "Chennai",
+  "job_type": "Internship"
+ },
+ "adzuna:5940649723": {
+  "role": "HR & Recruiting",
+  "city": "Ahmedabad",
+  "job_type": "Internship"
+ },
+ "adzuna:5953160491": {
+  "role": "QA & Testing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963448591": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5963453121": {
+  "role": "HR & Recruiting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5965370847": {
+  "role": "Sales & Business Development",
+  "city": "Noida",
+  "job_type": "Internship"
+ },
+ "adzuna:5935555944": {
+  "role": "Finance & Accounting",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5961864622": {
+  "role": "Finance & Accounting",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "adzuna:5963465456": {
+  "role": "Sales & Business Development",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5963999039": {
+  "role": "Marketing",
+  "city": "Jaipur",
+  "job_type": "Internship"
+ },
+ "adzuna:5963468176": {
+  "role": "Marketing",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5956291741": {
+  "role": "Other",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5957859477": {
+  "role": "Other",
+  "city": "Mumbai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970537694": {
+  "role": "Sales & Business Development",
+  "city": "Gurugram",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970526837": {
+  "role": "Other",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5970567290": {
+  "role": "Marketing",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5967968672": {
+  "role": "Finance & Accounting",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5955153518": {
+  "role": "Software Engineering",
+  "city": "Chennai",
+  "job_type": "Full-time"
+ },
+ "adzuna:5945588134": {
+  "role": "Software Engineering",
+  "city": "Indore",
+  "job_type": "Full-time"
+ },
+ "adzuna:5951635155": {
+  "role": "UI/UX & Design",
+  "city": "Pune",
+  "job_type": "Internship"
+ },
+ "adzuna:5936833367": {
+  "role": "HR & Recruiting",
+  "city": "Pune",
+  "job_type": "Full-time"
+ },
+ "adzuna:5940646341": {
+  "role": "QA & Testing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5963441748": {
+  "role": "Sales & Business Development",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
+ },
+ "adzuna:5947068218": {
+  "role": "QA & Testing",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ },
+ "adzuna:5954484989": {
+  "role": "Operations & Supply Chain",
+  "city": "Unknown",
+  "job_type": "Full-time"
+ }
+}

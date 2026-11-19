@@ -27,7 +27,8 @@ CITIES = (
 )
 JOB_TYPES = ("Internship", "Full-time")
 
-DEFAULT_MODEL = "gemini-2.5-flash-lite"
+DEFAULT_MODEL = "gemini-3.5-flash-lite"
+FALLBACK_MODELS = ("gemini-3.1-flash-lite", "gemini-flash-lite-latest")  # used when the main one is busy/retired
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 BATCH_SIZE = 25
 SECONDS_BETWEEN_CALLS = 4.5   # stays under free-tier 15 requests/minute
@@ -85,17 +86,42 @@ def parse_response(body: dict) -> tuple[dict[str, dict], int, int]:
     text = body["candidates"][0]["content"]["parts"][0]["text"]
     meta = body.get("usageMetadata", {})
     tags = {}
-    for item in json.loads(text):
-        if item.get("role") in ROLES and item.get("city") in CITIES and item.get("job_type") in JOB_TYPES:
+    items = json.loads(text)
+    for item in items:
+        if item.get("id") and item.get("role") in ROLES and item.get("city") in CITIES \
+                and item.get("job_type") in JOB_TYPES:
             tags[item["id"]] = {"role": item["role"], "city": item["city"], "job_type": item["job_type"]}
+    if len(tags) < len(items):
+        log.warning("%d of %d returned labels were invalid and dropped", len(items) - len(tags), len(items))
     return tags, meta.get("promptTokenCount", 0), meta.get("candidatesTokenCount", 0)
 
 
+MIN_BATCH_COVERAGE = 0.5  # fewer tags than this share of the batch -> try the next model
+
+
 def _call_gemini(jobs: list[Job], api_key: str, model: str) -> tuple[dict[str, dict], int, int]:
+    """Try the main model, then each fallback. Returns the first result covering enough of the batch."""
+    best: tuple[dict[str, dict], int, int] = ({}, 0, 0)
+    for candidate in (model, *[m for m in FALLBACK_MODELS if m != model]):
+        result = _call_model(jobs, api_key, candidate)
+        if result is not None and len(result[0]) >= MIN_BATCH_COVERAGE * len(jobs):
+            return result
+        if result is not None and len(result[0]) > len(best[0]):
+            best = result
+        log.warning("model %s gave %s tags for %d posts, trying next",
+                    candidate, "no" if result is None else len(result[0]), len(jobs))
+    return best
+
+
+def _call_model(jobs: list[Job], api_key: str, model: str) -> tuple[dict[str, dict], int, int] | None:
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.post(API_URL.format(model=model), json=build_request(jobs),
                                  headers={"x-goog-api-key": api_key}, timeout=TIMEOUT_SECONDS)
+            if resp.status_code == 404:  # model retired: no point retrying it
+                return None
+            if resp.status_code in (400, 401, 403):  # bad key/config: fail fast with a clear message
+                raise RuntimeError(f"Gemini auth/config error {resp.status_code}: {resp.text[:200]}")
             if resp.status_code == 429:
                 log.warning("Gemini rate limit, waiting (attempt %d)", attempt)
                 time.sleep(30 * attempt)
@@ -103,9 +129,9 @@ def _call_gemini(jobs: list[Job], api_key: str, model: str) -> tuple[dict[str, d
             resp.raise_for_status()
             return parse_response(resp.json())
         except (requests.RequestException, KeyError, IndexError, ValueError) as exc:
-            log.warning("Gemini batch failed (attempt %d/%d): %s", attempt, MAX_RETRIES, exc)
+            log.warning("%s batch failed (attempt %d/%d): %s", model, attempt, MAX_RETRIES, exc)
             time.sleep(5 * attempt)
-    return {}, 0, 0
+    return None
 
 
 def tag_jobs(jobs: list[Job], cache: dict[str, dict]) -> tuple[list[Job], dict[str, dict], Usage]:
@@ -116,8 +142,8 @@ def tag_jobs(jobs: list[Job], cache: dict[str, dict]) -> tuple[list[Job], dict[s
     new_cache = dict(cache)
     usage = Usage()
     if todo and not api_key:
-        log.error("GEMINI_API_KEY not set: %d posts left untagged", len(todo))
-    elif todo:
+        raise RuntimeError(f"GEMINI_API_KEY not set: {len(todo)} new posts cannot be tagged")
+    if todo:
         log.info("tagging %d new posts with %s (%d cached)", len(todo), model, len(jobs) - len(todo))
         for start in range(0, len(todo), BATCH_SIZE):
             batch = todo[start:start + BATCH_SIZE]

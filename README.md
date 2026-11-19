@@ -9,7 +9,7 @@ A live page of fresher jobs and internships in India. Every day it collects post
 ```
 GitHub Actions (daily 06:00 IST)
   └─ python -m scraper.main
-       1. Fetch     Adzuna India API + public ATS boards (Greenhouse, Lever, Ashby, SmartRecruiters)
+       1. Fetch     Adzuna India API + public ATS boards (Greenhouse, Lever, Ashby, SmartRecruiters, Workday)
        2. Filter    keep India + fresher posts (title words, "0-1 years", entry-level flags)
        3. Dedupe    same title + company + city, or same URL → keep one (company board wins)
        4. Tag       Gemini, 25 posts per call, JSON-schema output, cached by job id
