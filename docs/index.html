@@ -100,7 +100,7 @@ function render() {
 
 function renderStats(m) {
   const when = m.updated_at ? new Date(m.updated_at).toLocaleString("en-IN", {dateStyle: "medium", timeStyle: "short"}) : "—";
-  const items = [[m.published, "posts live"], [m.duplicates_removed, "duplicates removed"], [Object.keys(m.by_source || {}).length, "sources"], [when, "last refresh"]];
+  const items = [[m.published, "posts live"], [m.duplicates_removed, "duplicates removed (last run)"], [Object.keys(m.by_source || {}).length, "sources"], [when, "last refresh"]];
   $("stats").innerHTML = items.map(([v, l]) => `<div class="stat"><b>${esc(v)}</b>${esc(l)}</div>`).join("");
 }
 

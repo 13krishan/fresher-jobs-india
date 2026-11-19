@@ -10,7 +10,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from .dedupe import dedupe
-from .filters import is_fresher, is_in_india
+from .filters import is_fresher, is_in_india, is_junk, is_senior
 from .models import Job
 from .sources import adzuna, ats, workday
 from .store import merge, to_records
@@ -23,7 +23,7 @@ META_FILE = DATA_DIR / "meta.json"
 CACHE_FILE = ROOT / "data" / "tag_cache.json"
 STORE_FILE = ROOT / "data" / "jobs_store.json"
 USAGE_LOG = ROOT / "data" / "usage_log.jsonl"
-FRESHER_LEVELS = ("entry_level", "internship")
+FRESHER_LEVELS = ("internship",)  # boards over-use "entry_level" (Bosch tags seniors with it)
 
 log = logging.getLogger("pipeline")
 
@@ -54,8 +54,10 @@ def check_not_shrunk(published: int, previous: int) -> None:
 
 
 def keep_fresher_india(jobs: list[Job]) -> list[Job]:
-    return [j for j in jobs if is_in_india(j.location) and (
-        is_fresher(j.title, j.description) or j.extra.get("experience_level") in FRESHER_LEVELS)]
+    """India + fresher, never senior titles (even if a board flags them entry-level), never junk."""
+    return [j for j in jobs
+            if is_in_india(j.location) and not is_senior(j.title) and not is_junk(j.title, j.company)
+            and (is_fresher(j.title, j.description) or j.extra.get("experience_level") in FRESHER_LEVELS)]
 
 
 def run() -> dict:
@@ -63,7 +65,7 @@ def run() -> dict:
     raw = adzuna.fetch() + ats.fetch() + workday.fetch()
     filtered = keep_fresher_india(raw)
     pool = merge(_read_json(STORE_FILE, []), filtered, datetime.now(timezone.utc).date())
-    unique = dedupe(pool)
+    unique = dedupe(keep_fresher_india(pool))  # re-filter stored posts too, so rule fixes apply to history
     tagged, cache, usage = tag_jobs(unique, _read_json(CACHE_FILE, {}))
     tagged = [j for j in tagged if j.role]  # only publish posts the LLM could tag
     tagged.sort(key=lambda j: j.posted_at or "", reverse=True)

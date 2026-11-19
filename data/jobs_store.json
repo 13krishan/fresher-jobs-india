@@ -285,25 +285,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
-  "source": "lever",
-  "title": "Security Engineer Intern",
-  "company": "Fampay",
-  "location": "Bengaluru",
-  "url": "https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24",
-  "description": "About Fam (previously FamPay) Fam is India's first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ youngest users in India to kickstart their financial journey super early in their life. Founded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angel investors. About the Role We are looking for a Security Enthusiast who thinks like a hacker but works for the good guys. You shouldn't just find bugs; you should be obsessed with understanding why they exist and how to fix them for good. As an Application Security Engineer Intern, you will be the first line of defense for the Fam. You will break things before the bad guys do, automate security checks, and work side-by-side with our engineering team to build a fortress around our users' hard-earned money. If you get a rush from finding an RCE, live on r/netsec, or spend your weekends capturing flags or bounties, this role is for you. Note: This is an onsite internship at Fam HQ, Bangalore. Curious to know about FamPay's tech stack? Click here to know what makes and keeps Fam running!",
-  "posted_at": "",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "ashby:sarvam:bba82f34-1544-421e-a393-3edd8a5f4cb2",
   "source": "ashby",
   "title": "Marketing internship (brand & communication)",
@@ -363,46 +344,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "smartrecruiters:744000161048989",
-  "source": "smartrecruiters",
-  "title": "IN_RBIN_Deputy Manager/Assistant Manager-Industrial Engineer_BidP1/TEF6",
-  "company": "Bosch Group",
-  "location": "Bannikuppe (Bidadi), KA, India",
-  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161048989",
-  "description": "Entry Level Engineering",
-  "posted_at": "2026-11-11",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "experience_level": "entry_level",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "smartrecruiters:744000158699739",
-  "source": "smartrecruiters",
-  "title": "IN_RBIN_Assistant Manager / Senior Engineer_Project Management (Member) : PS-GH/PJM-IN",
-  "company": "Bosch Group",
-  "location": "Bengaluru, KA, India",
-  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158699739",
-  "description": "Entry Level Engineering",
-  "posted_at": "2026-10-30",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "experience_level": "entry_level",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "smartrecruiters:744000156768769",
   "source": "smartrecruiters",
   "title": "Electrical and Electronics Systems Integration Specialist",
@@ -411,26 +352,6 @@
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156768769",
   "description": "Entry Level Engineering",
   "posted_at": "2026-10-21",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "experience_level": "entry_level",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "smartrecruiters:744000155907509",
-  "source": "smartrecruiters",
-  "title": "IN_RBAI_Senior Process Engineer Pick and Place",
-  "company": "Bosch Group",
-  "location": "Bangalore, India",
-  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155907509",
-  "description": "Entry Level Manufacturing",
-  "posted_at": "2026-10-16",
   "role": "",
   "city": "",
   "job_type": "",
@@ -483,46 +404,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "smartrecruiters:744000153404949",
-  "source": "smartrecruiters",
-  "title": "IN_ RBIN_ Process Planner_ Senior Engineer / Assistant Manager_ GanP/MOE3",
-  "company": "Bosch Group",
-  "location": "Gangaikondan, TN, India",
-  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153404949",
-  "description": "Entry Level Manufacturing",
-  "posted_at": "2026-10-05",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "experience_level": "entry_level",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "smartrecruiters:744000149572929",
-  "source": "smartrecruiters",
-  "title": "IN_RBIN_Senior Engineer / Assistant Manager _Design and development (Member) GH",
-  "company": "Bosch Group",
-  "location": "Bengaluru, KA, India",
-  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149572929",
-  "description": "Entry Level Engineering",
-  "posted_at": "2026-09-15",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "experience_level": "entry_level",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "smartrecruiters:744000145185264",
   "source": "smartrecruiters",
   "title": "MES Application Engineer",
@@ -531,26 +412,6 @@
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145185264",
   "description": "Entry Level Engineering",
   "posted_at": "2026-08-24",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "experience_level": "entry_level",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "smartrecruiters:744000141254663",
-  "source": "smartrecruiters",
-  "title": "BGSW_SAP_REFX_Consultant",
-  "company": "Bosch Group",
-  "location": "bangalore, India",
-  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141254663",
-  "description": "Entry Level Consulting",
-  "posted_at": "2026-08-03",
   "role": "",
   "city": "",
   "job_type": "",
@@ -966,25 +827,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5970906038",
-  "source": "adzuna",
-  "title": "Business Development Associate (Fresher)",
-  "company": "Playto Labs",
-  "location": "Bangalore, Karnataka",
-  "url": "https://www.adzuna.in/details/5970906038?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Job Description Job Summary: We are seeking a motivated fresher to join our Business Development team as a Pre-sales Associate. In this entry-level role, you will support the sales cycle by researching prospects, qualifying leads, preparing proposals, and assisting in client demos. This is a great opportunity to learn sales strategies, client engagement, and business tools while working alongside experienced professionals. Key Responsibilities: ● Qualify leads by initial outreach via calls, ema…",
-  "posted_at": "2026-11-19",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5960623865",
   "source": "adzuna",
   "title": "BA / B.Com Freshers",
@@ -1126,25 +968,6 @@
   "url": "https://www.adzuna.in/details/5970302589?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Experience: 0.6–1 Year Location: Remote Employment Type: Full-Time About the Role We’re looking for a Fresher AI/ML Software Engineer with hands-on academic, internship, or personal-project experience in Core AI/ML. The role will work on AI/ML and computer vision features — CCTV/video analytics, face & image recognition, OMR/OCR, and document AI — for our Higher Education platform. Key Areas We’re Looking For Core AI/ML CCTV / Video Analytics Face Recognition / Image Recognition OMR / OCR Docum…",
   "posted_at": "2026-11-18",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5963437726",
-  "source": "adzuna",
-  "title": "Oracle EBS Consultant (Fresher)",
-  "company": "SmartDocs",
-  "location": "Hyderabad, Telangana",
-  "url": "https://www.adzuna.in/details/5963437726?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Oracle EBS Consultant (Fresher – Full Time) Location: Hyderabad | Type: Full-Time | Start: Immediate / ASAP Role Overview We are looking for an enthusiastic Oracle EBS and Fusion Cloud Integration Consultant (Fresher) eager to build a career in enterprise integrations. Our product is an end-to-end expense management and e-procurement platform with native SAP integration, and we are now building an equivalent native integration for the Oracle ecosystem. This is a full-time role for a motivated g…",
-  "posted_at": "2026-11-12",
   "role": "",
   "city": "",
   "job_type": "",
@@ -1821,25 +1644,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5960531759",
-  "source": "adzuna",
-  "title": "Graduate Trainee Engineer – Sales (Shroff)",
-  "company": "nVent",
-  "location": "India",
-  "url": "https://www.adzuna.in/details/5960531759?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "We’re looking for people who put their innovation to work to advance our success – and their own. Join an organization that ensures a more secure world through connecting and protecting our customers with inventive electrical solutions. WHAT YOU WILL EXPERIENCE IN THIS POSITION: • Interact with customers with respect to their issues and queries. • Participate in external client meetings. • Arrange, Review and share the proposals with the clients. • Learn the know how of Data Center Solutions. •…",
-  "posted_at": "2026-11-10",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5943348375",
   "source": "adzuna",
   "title": "Graduate Trainee - GISOCC R&D DSIS",
@@ -2049,25 +1853,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5960525895",
-  "source": "adzuna",
-  "title": "Graduate Engineer Trainee – Warehouse",
-  "company": "nVent",
-  "location": "India",
-  "url": "https://www.adzuna.in/details/5960525895?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "We’re looking for people who put their innovation to work to advance our success – and their own. Join an organization that ensures a more secure world through connecting and protecting our customers with inventive electrical solutions. WHAT YOU WILL EXPERIENCE IN THIS POSITION: • Create Goods Receipt Notes (GRN) in ERP/SYTELINE. • Verify supplier documents such as invoices, delivery challans, and packing lists. • Maintain and organize all incoming warehouse documentation. (invoices, Delivery c…",
-  "posted_at": "2026-11-10",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5968732314",
   "source": "adzuna",
   "title": "Graduate Apprenticeship Trainee - Helpdesk",
@@ -2076,25 +1861,6 @@
   "url": "https://www.adzuna.in/details/5968732314?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Bruker is enabling scientists to make breakthrough discoveries and develop new applications that improve the quality of human life. Bruker’s high-performance scientific instruments and high-value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular and microscopic levels. In close cooperation with our customers, Bruker is enabling innovation, improved productivity and customer success in life science molecular research, in applied and pharma…",
   "posted_at": "2026-11-17",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5954484213",
-  "source": "adzuna",
-  "title": "Mechancial Engineer_Graduate Engineering Trainee",
-  "company": "Xylem",
-  "location": "India",
-  "url": "https://www.adzuna.in/details/5954484213?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Xylem is a Fortune 500 global water solutions company dedicated to advancing sustainable impact and empowering the people who make water work every day. As a leading water technology company with 23,000 employees operating in over 150 countries, Xylem is at the forefront of addressing the world's most critical water challenges. We invite passionate individuals to join our team, dedicated to exceeding customer expectations through innovative and sustainable solutions. Job Summary: The Entry Mech…",
-  "posted_at": "2026-11-05",
   "role": "",
   "city": "",
   "job_type": "",
@@ -2152,25 +1918,6 @@
   "url": "https://www.adzuna.in/details/5939121690?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Join us as a Graduate Talent Trainee, and explore the intriguing world of blockchain, and high-performance computing. Drive impact with us! Job Summary: The Graduate Talent Trainee (GTT) program at Bitdeer is dedicated to developing high-potential graduates into skilled professionals who drive innovation and organizational excellence at Bitdeer. This 18-month program combines hands-on experience in your chosen field with comprehensive training in our core values and business practices. As a GTT…",
   "posted_at": "2026-10-23",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5941326338",
-  "source": "adzuna",
-  "title": "2027 Information Technology & Cybersecurity Graduate Talent Trainee",
-  "company": "Bitdeer",
-  "location": "India",
-  "url": "https://www.adzuna.in/details/5941326338?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Join us as a Graduate Talent Trainee, and explore the intriguing world of blockchain, and high-performance computing. Drive impact with us! Job Summary: The Graduate Talent Trainee (GTT) program at Bitdeer is dedicated to developing high-potential graduates into skilled professionals who drive innovation and organizational excellence at Bitdeer. This 18-month program combines hands-on experience in your chosen field with comprehensive training in our core values and business practices. As a GTT…",
-  "posted_at": "2026-10-25",
   "role": "",
   "city": "",
   "job_type": "",
@@ -4101,25 +3848,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5938642062",
-  "source": "adzuna",
-  "title": "Python and Next JS Developers - Freshers",
-  "company": "Executive Softway Guild India Private Limited",
-  "location": "Hyderabad, Telangana",
-  "url": "https://www.adzuna.in/details/5938642062?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Job Opening: Python & Next.js Developer (Freshers) Company: Executive Softway Guild India Pvt. Ltd. Location: Hyderabad, Telangana Job Type: Full-Time Work Mode: Work from Office (5 Days a Week) Experience: Freshers (Trained Candidates) About the Role We are looking for motivated and technically trained freshers to join our development team. Candidates should have a strong foundation in Python, React.js, and Next.js, along with a passion for learning and software development. Required Skills Ba…",
-  "posted_at": "2026-10-23",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5944407222",
   "source": "adzuna",
   "title": "Media Relations & Communications Associate –Fresher",
@@ -4166,44 +3894,6 @@
   "url": "https://www.adzuna.in/details/5955031542?utm_medium=api&utm_source=1c2bfdeb",
   "description": "POSITION: ASSOCIATE CONSULTANT OR CONSULTANT ORTHOPEDICS or FELLOWSHIP QUALIFICATION: MS/DNB / DIPLOMA IN ORTHOPEDICS EXPERIENCE: 0 TO 3 YEARS SALARY BUDGET: UPTO 2.50 LACS PM LOCATION: PATHANKOT, PUNJAB HOSPITAL: A 100 BEDDED, WELL ESTABLISHED, MULTISPECIALTY HOSPITAL IN PATHANKOT, PUNJAB.STATE OF ART INFRASTRACTURE, LATEST MACHINERY & EQUIPMENT AND MOST MODERN TECHNOLOGY. THE HOSPITAL IS RUN BY A SEASONED ORTHOPAEDICIAN AND SUCESSFULLY RUNNING FOR THE LAST 10 YEARS. Interested candidates are …",
   "posted_at": "2026-11-06",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5960996956",
-  "source": "adzuna",
-  "title": "Recruiter- Night Shift (Fresher Opening)",
-  "company": "ascendion",
-  "location": "Vadodara, Gujarat",
-  "url": "https://www.adzuna.in/details/5960996956?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "About Ascendion Ascendion is a leader in AI-powered software engineering, helping businesses innovate faster, smarter, and with greater impact. We partner with Global 2000 clients across North America, UK, Europe, and APAC to solve complex challenges in data, experience design, software product engineering, and workforce transformation. Powered by expert engineers, thousands of AI agents, and our Engineering to the Power of AI™ (EngineeringAI) method, we deliver measurable outcomes that build t…",
-  "posted_at": "2026-11-11",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5962480333",
-  "source": "adzuna",
-  "title": "Java Fresher-walkin - TEST 2",
-  "company": "XYZ",
-  "location": "Bangalore, Karnataka",
-  "url": "https://www.adzuna.in/details/5962480333?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Minimum qualification & Experience: Bachelor's degree in mass communication, business management, or any other related field. Minimum 8 years of relevant experience in General Services and Administration with at least 4 years' experience with growing supervisory accountability in roles within similar operations. Job purpose: Support and lead the development of strategic Events & CSR initiatives, promote company's visibility to its business, products or corporate announcements, and enhance its r…",
-  "posted_at": "2026-11-12",
   "role": "",
   "city": "",
   "job_type": "",
@@ -4299,25 +3989,6 @@
   "url": "https://www.adzuna.in/details/5959526380?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Summary: The Field Sales Executive plays a vital role in driving business expansion within the paint-chemical industry by cultivating strong, lasting relationships with key trade partners, including painters, contractors, builders, architects, and engineers. This position demands consistent performance, proactive engagement, and a hands-on approach to achieve and exceed sales targets. The ideal candidate will conduct daily site visits, maintain a strong presence at assigned retail outlets, orga…",
   "posted_at": "2026-11-10",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5938642057",
-  "source": "adzuna",
-  "title": "Job Opening: Python & Next.js Developer (Freshers)",
-  "company": "Executive Softway Guild India Private Limited",
-  "location": "Hyderabad, Telangana",
-  "url": "https://www.adzuna.in/details/5938642057?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Job Opening: Python & Next.js Developer (Freshers) Company: Executive Softway Guild India Pvt. Ltd. Location: Hyderabad, Telangana Job Type: Full-Time Work Mode: Work from Office (5 Days a Week) Experience: Freshers (Trained Candidates) About the Role We are looking for motivated and technically trained freshers to join our development team. Candidates should have a strong foundation in Python, React.js, and Next.js, along with a passion for learning and software development. Required Skills Ba…",
-  "posted_at": "2026-10-23",
   "role": "",
   "city": "",
   "job_type": "",
@@ -4956,25 +4627,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5948346111",
-  "source": "adzuna",
-  "title": "Product Intern",
-  "company": "SOLO NETWORK",
-  "location": "Mapusa, North Goa",
-  "url": "https://www.adzuna.in/details/5948346111?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "This is a remote position. About SPARK Technologies SPARK Technologies is a technology company working across AI, Web3, blockchain, and digital learning. We work with students, institutions, businesses, and industry partners to create practical opportunities around learning, technology, and career development. We are looking for a Product Intern to support our product development and management activities. The role involves researching user needs, analyzing market trends, assisting with product…",
-  "posted_at": "2026-11-01",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5970451321",
   "source": "adzuna",
   "title": "HR Intern",
@@ -5355,44 +5007,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5945175387",
-  "source": "adzuna",
-  "title": "deomm",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5945175387?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description This entry-level role is designed for freshers who are eager to start their career in project management. The successful candidate will support various projects and collaborate with team members to achieve objectives Responsibilities Assist in the development and implementation of projects Collaborate with team members to achieve project goals Participate in meetings and contribute ideas Conduct research and gather data to support project initiatives Prepare reports and presentation…",
-  "posted_at": "2026-10-29",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5946349484",
-  "source": "adzuna",
-  "title": "demooo",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5946349484?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description The demooo role is an entry-level position designed for freshers looking to start their career in project management and team collaboration. The ideal candidate will be motivated, eager to learn, and ready to contribute to various projects within the team. Responsibilities Assist in project management and execution of tasks Collaborate with team members to achieve project goals Maintain documentation and reports related to projects Participate in team meetings and contribute ideas L…",
-  "posted_at": "2026-10-30",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5965370394",
   "source": "adzuna",
   "title": "Commi",
@@ -5507,120 +5121,6 @@
   "last_seen": "2026-11-19"
  },
  {
-  "id": "adzuna:5944001660",
-  "source": "adzuna",
-  "title": "demo",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5944001660?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description This role is ideal for freshers/entry-level candidates who are eager to learn about product demonstrations and support the sales process in a dynamic environment. Responsibilities Assist in product demonstrations and presentations to clients and stakeholders. Collaborate with the sales team to understand customer needs and tailor demos accordingly. Gather feedback from clients after demos to improve product presentation. Maintain up-to-date knowledge of product features and industry…",
-  "posted_at": "2026-10-28",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5944001659",
-  "source": "adzuna",
-  "title": "dem",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5944001659?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description We are looking for a dynamic and motivated Digital Marketing Executive to join our team in India. This is an entry-level position, suitable for freshers or candidates looking to kickstart their career in the digital marketing domain. Responsibilities Assist in the planning and execution of digital marketing strategies Analyze and report on campaign performance metrics Support content creation for various digital platforms Collaborate with cross-functional teams to enhance brand visi…",
-  "posted_at": "2026-10-28",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5945175331",
-  "source": "adzuna",
-  "title": "demoo-n",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5945175331?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description This role is for freshers/entry-level candidates interested in gaining experience in product demonstrations and sales support. Responsibilities Assist in creating and delivering product demonstrations to potential clients. Collaborate with the sales team to understand customer requirements and tailor demos accordingly. Gather feedback from demos to improve future presentations and product features. Maintain up-to-date knowledge of product features, functionalities, and industry tren…",
-  "posted_at": "2026-10-29",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5945175404",
-  "source": "adzuna",
-  "title": "demooooooo",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5945175404?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description We are seeking a motivated and enthusiastic individual for the position of demooooooo in our team in India. This role is ideal for freshers or entry-level candidates looking to kickstart their career in a dynamic work environment Responsibilities Assist in daily operations and support team members in various tasks. Participate in training sessions and team meetings to enhance skills and knowledge. Conduct research and gather data to assist in project development. Collaborate with te…",
-  "posted_at": "2026-10-29",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5945175391",
-  "source": "adzuna",
-  "title": "demog",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5945175391?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description We are seeking a dynamic and motivated individual for the position of Demog in our team in India. This is an entry-level role ideal for freshers who are eager to start their career in marketing and gain hands-on experience Responsibilities Assist in the development and implementation of marketing strategies. Conduct market research to identify trends and insights. Collaborate with cross-functional teams to create engaging marketing campaigns. Analyze data and report on campaign perf…",
-  "posted_at": "2026-10-29",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5946349239",
-  "source": "adzuna",
-  "title": "demoo",
-  "company": "Test",
-  "location": "Ahmedabad, Gujarat",
-  "url": "https://www.adzuna.in/details/5946349239?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description We are looking for a fresh and enthusiastic Demoo to join our team in India. This entry-level position offers a great opportunity to gain hands-on experience in project development and implementation. Responsibilities Assist in the development and implementation of projects Collaborate with team members to achieve project goals Conduct research and gather data to support project initiatives Participate in team meetings and contribute to brainstorming sessions Maintain project docume…",
-  "posted_at": "2026-10-30",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
   "id": "adzuna:5960996988",
   "source": "adzuna",
   "title": "Rider , Bike Rider",
@@ -5704,25 +5204,6 @@
   "location": "India",
   "url": "https://www.adzuna.in/details/5955818028?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Industry/Sector Not Applicable Specialism Advisory Generalist (entry level) Management Level Associate Job Description & Summary The Opportunity Join our Acceleration Center India and help shape the future of business for our diverse client portfolio across geographies and jurisdictions. You’ll work at the heart of global teams across Advisory, Assurance, Tax and Business Services—solving real client challenges through connected collaboration. We’ll help you grow your skills so you can go furth…",
-  "posted_at": "2026-11-06",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5955047269",
-  "source": "adzuna",
-  "title": "Java",
-  "company": "Test",
-  "location": "Bangalore, Karnataka",
-  "url": "https://www.adzuna.in/details/5955047269?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description We are looking for a Java Developer to join our team. This is an excellent opportunity for freshers/entry-level candidates to gain practical experience in software development and contribute to exciting projects. Responsibilities Develop and maintain Java-based applications Collaborate with cross-functional teams to define, design, and ship new features Troubleshoot and debug applications Participate in code reviews and maintain coding standards Write unit and integration tests to e…",
   "posted_at": "2026-11-06",
   "role": "",
   "city": "",
@@ -5838,25 +5319,6 @@
   "url": "https://www.adzuna.in/details/5969793559?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Description We are seeking a motivated Customer Service Executive to join our dynamic team. This role is ideal for freshers or entry-level candidates who are eager to develop their skills in customer support and service. The successful candidate will be responsible for assisting customers with their inquiries and providing excellent service to ensure customer satisfaction. Responsibilities Assist customers with inquiries, complaints, and support via phone, email, or chat. Provide accurate infor…",
   "posted_at": "2026-11-18",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5965201202",
-  "source": "adzuna",
-  "title": "Java Frameworks",
-  "company": "Test",
-  "location": "Bangalore, Karnataka",
-  "url": "https://www.adzuna.in/details/5965201202?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Description We are looking for freshers/entry-level candidates for the position of Java Frameworks in our dynamic team. This role involves developing and maintaining Java applications using various frameworks and collaborating with team members to enhance our software solutions. Responsibilities Develop and maintain Java-based applications using various Java frameworks. Collaborate with cross-functional teams to define, design, and ship new features. Troubleshoot and debug applications to optim…",
-  "posted_at": "2026-11-14",
   "role": "",
   "city": "",
   "job_type": "",
@@ -7072,25 +6534,6 @@
   "location": "Gurgaon, Haryana",
   "url": "https://www.adzuna.in/details/5970537694?utm_medium=api&utm_source=1c2bfdeb",
   "description": "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the worl…",
-  "posted_at": "2026-11-18",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19"
- },
- {
-  "id": "adzuna:5970526837",
-  "source": "adzuna",
-  "title": "Trainee - R&D",
-  "company": "Piramal Pharma",
-  "location": "India",
-  "url": "https://www.adzuna.in/details/5970526837?utm_medium=api&utm_source=1c2bfdeb",
-  "description": "Be the First to Apply Division Piramal Pharma Solutions Piramal Pharma Solutions is a contract development and manufacturing organization (CDMO), offering end-to-end development and manufacturing solutions across the drug life cycle. We serve our clients through a globally integrated network of facilities in North America, Europe and Asia. This enables us to offer a comprehensive range of services including Drug Discovery Solutions, Process & Pharmaceutical Development services, Clinical Trial …",
   "posted_at": "2026-11-18",
   "role": "",
   "city": "",

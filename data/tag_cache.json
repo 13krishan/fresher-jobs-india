@@ -164,11 +164,6 @@
   "city": "Bengaluru",
   "job_type": "Internship"
  },
- "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24": {
-  "role": "Cybersecurity",
-  "city": "Bengaluru",
-  "job_type": "Internship"
- },
  "ashby:sarvam:bba82f34-1544-421e-a393-3edd8a5f4cb2": {
   "role": "Marketing",
   "city": "Bengaluru",
@@ -184,22 +179,7 @@
   "city": "Bengaluru",
   "job_type": "Full-time"
  },
- "smartrecruiters:744000161048989": {
-  "role": "Core Engineering (Mech/Elec/Civil)",
-  "city": "Other City",
-  "job_type": "Full-time"
- },
- "smartrecruiters:744000158699739": {
-  "role": "Software Engineering",
-  "city": "Bengaluru",
-  "job_type": "Full-time"
- },
  "smartrecruiters:744000156768769": {
-  "role": "Core Engineering (Mech/Elec/Civil)",
-  "city": "Bengaluru",
-  "job_type": "Full-time"
- },
- "smartrecruiters:744000155907509": {
   "role": "Core Engineering (Mech/Elec/Civil)",
   "city": "Bengaluru",
   "job_type": "Full-time"
@@ -214,23 +194,8 @@
   "city": "Bengaluru",
   "job_type": "Full-time"
  },
- "smartrecruiters:744000153404949": {
-  "role": "Operations & Supply Chain",
-  "city": "Other City",
-  "job_type": "Full-time"
- },
- "smartrecruiters:744000149572929": {
-  "role": "Core Engineering (Mech/Elec/Civil)",
-  "city": "Bengaluru",
-  "job_type": "Full-time"
- },
  "smartrecruiters:744000145185264": {
   "role": "Software Engineering",
-  "city": "Bengaluru",
-  "job_type": "Full-time"
- },
- "smartrecruiters:744000141254663": {
-  "role": "Consulting",
   "city": "Bengaluru",
   "job_type": "Full-time"
  },
@@ -424,11 +389,6 @@
   "city": "Bengaluru",
   "job_type": "Full-time"
  },
- "adzuna:5970906038": {
-  "role": "Sales & Business Development",
-  "city": "Bengaluru",
-  "job_type": "Full-time"
- },
  "adzuna:5960623865": {
   "role": "Finance & Accounting",
   "city": "Hyderabad",
@@ -467,11 +427,6 @@
  "adzuna:5970302589": {
   "role": "AI / ML",
   "city": "Remote",
-  "job_type": "Full-time"
- },
- "adzuna:5963437726": {
-  "role": "Software Engineering",
-  "city": "Hyderabad",
   "job_type": "Full-time"
  },
  "adzuna:5946268459": {
@@ -649,11 +604,6 @@
   "city": "Unknown",
   "job_type": "Full-time"
  },
- "adzuna:5960531759": {
-  "role": "Sales & Business Development",
-  "city": "Unknown",
-  "job_type": "Full-time"
- },
  "adzuna:5943348375": {
   "role": "Core Engineering (Mech/Elec/Civil)",
   "city": "Chennai",
@@ -709,19 +659,9 @@
   "city": "Unknown",
   "job_type": "Full-time"
  },
- "adzuna:5960525895": {
-  "role": "Operations & Supply Chain",
-  "city": "Unknown",
-  "job_type": "Full-time"
- },
  "adzuna:5968732314": {
   "role": "Customer Support",
   "city": "Bengaluru",
-  "job_type": "Full-time"
- },
- "adzuna:5954484213": {
-  "role": "Core Engineering (Mech/Elec/Civil)",
-  "city": "Unknown",
   "job_type": "Full-time"
  },
  "adzuna:5964788756": {
@@ -736,11 +676,6 @@
  },
  "adzuna:5939121690": {
   "role": "Sales & Business Development",
-  "city": "Unknown",
-  "job_type": "Full-time"
- },
- "adzuna:5941326338": {
-  "role": "Cybersecurity",
   "city": "Unknown",
   "job_type": "Full-time"
  },
@@ -1249,11 +1184,6 @@
   "city": "Hyderabad",
   "job_type": "Full-time"
  },
- "adzuna:5938642062": {
-  "role": "Software Engineering",
-  "city": "Hyderabad",
-  "job_type": "Full-time"
- },
  "adzuna:5944407222": {
   "role": "Content & Writing",
   "city": "Hyderabad",
@@ -1267,16 +1197,6 @@
  "adzuna:5955031542": {
   "role": "Consulting",
   "city": "Other City",
-  "job_type": "Full-time"
- },
- "adzuna:5960996956": {
-  "role": "HR & Recruiting",
-  "city": "Other City",
-  "job_type": "Full-time"
- },
- "adzuna:5962480333": {
-  "role": "Operations & Supply Chain",
-  "city": "Bengaluru",
   "job_type": "Full-time"
  },
  "adzuna:5957412084": {
@@ -1302,11 +1222,6 @@
  "adzuna:5959526380": {
   "role": "Sales & Business Development",
   "city": "Other City",
-  "job_type": "Full-time"
- },
- "adzuna:5938642057": {
-  "role": "Software Engineering",
-  "city": "Hyderabad",
   "job_type": "Full-time"
  },
  "adzuna:5968520972": {
@@ -1474,11 +1389,6 @@
   "city": "Pune",
   "job_type": "Internship"
  },
- "adzuna:5948346111": {
-  "role": "Product Management",
-  "city": "Remote",
-  "job_type": "Internship"
- },
  "adzuna:5970451321": {
   "role": "HR & Recruiting",
   "city": "Pune",
@@ -1579,16 +1489,6 @@
   "city": "Unknown",
   "job_type": "Internship"
  },
- "adzuna:5945175387": {
-  "role": "Operations & Supply Chain",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
- "adzuna:5946349484": {
-  "role": "Operations & Supply Chain",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
  "adzuna:5965370394": {
   "role": "Operations & Supply Chain",
   "city": "Hyderabad",
@@ -1619,36 +1519,6 @@
   "city": "Ahmedabad",
   "job_type": "Full-time"
  },
- "adzuna:5944001660": {
-  "role": "Sales & Business Development",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
- "adzuna:5944001659": {
-  "role": "Marketing",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
- "adzuna:5945175331": {
-  "role": "Sales & Business Development",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
- "adzuna:5945175404": {
-  "role": "Other",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
- "adzuna:5945175391": {
-  "role": "Marketing",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
- "adzuna:5946349239": {
-  "role": "Other",
-  "city": "Ahmedabad",
-  "job_type": "Full-time"
- },
  "adzuna:5960996988": {
   "role": "Operations & Supply Chain",
   "city": "Unknown",
@@ -1672,11 +1542,6 @@
  "adzuna:5955818028": {
   "role": "Consulting",
   "city": "Unknown",
-  "job_type": "Full-time"
- },
- "adzuna:5955047269": {
-  "role": "Software Engineering",
-  "city": "Bengaluru",
   "job_type": "Full-time"
  },
  "adzuna:5960996983": {
@@ -1707,11 +1572,6 @@
  "adzuna:5969793559": {
   "role": "Customer Support",
   "city": "Mumbai",
-  "job_type": "Full-time"
- },
- "adzuna:5965201202": {
-  "role": "Software Engineering",
-  "city": "Bengaluru",
   "job_type": "Full-time"
  },
  "adzuna:5941575702": {
@@ -2032,11 +1892,6 @@
  "adzuna:5970537694": {
   "role": "Sales & Business Development",
   "city": "Gurugram",
-  "job_type": "Full-time"
- },
- "adzuna:5970526837": {
-  "role": "Other",
-  "city": "Unknown",
   "job_type": "Full-time"
  },
  "adzuna:5970567290": {

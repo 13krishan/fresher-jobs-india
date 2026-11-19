@@ -24,10 +24,27 @@ FRESHER_TEXT_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Letter boundaries (not \b) so "IN_RBAI_Senior Engineer" is caught too.
 SENIOR_TITLE_RE = re.compile(
-    r"\b(senior|sr\.?|lead|principal|staff|manager|director|head|architect|vp)\b",
+    r"(?<![a-z])(senior|sr\.?|lead|principal|staff|manager|director|head|architect|vp|consultant)(?![a-z])",
     re.IGNORECASE,
 )
+
+
+JUNK_COMPANIES = {"test", "demo", "abc", "xyz", "na", "n a", "company", "confidential test"}
+JUNK_TITLE_RE = re.compile(r"^\W*(test\w*|d+e*m+o+\w*|d+e+o+m+\w*|asdf\w*|sample\w*|dummy\w*)\W*$", re.IGNORECASE)
+MIN_TITLE_CHARS = 4
+
+
+def is_junk(title: str, company: str) -> bool:
+    """Test/demo posts that some boards leave live (e.g. company 'Test', title 'demooo')."""
+    t = (title or "").strip()
+    c = re.sub(r"[^a-z ]", " ", (company or "").lower()).strip()
+    return len(t) < MIN_TITLE_CHARS or bool(JUNK_TITLE_RE.match(t)) or c in JUNK_COMPANIES
+
+
+def is_senior(title: str) -> bool:
+    return bool(SENIOR_TITLE_RE.search(title or ""))
 
 
 def is_in_india(location: str) -> bool:

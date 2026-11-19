@@ -62,3 +62,45 @@ def test_dedupe_keeps_same_title_in_different_cities():
     a = make_job(id="a", location="Pune", url="https://a.com/1")
     b = make_job(id="b", location="Chennai", url="https://a.com/2")
     assert len(dedupe([a, b])) == 2
+
+
+def test_dedupe_treats_fresher_and_freshers_titles_as_same():
+    a = make_job(id="a", title="Business Development Associate (Freshers)", url="https://a.com/1")
+    b = make_job(id="b", title="Business Development Associate (Fresher)", url="https://a.com/2")
+    assert len(dedupe([a, b])) == 1
+
+
+def test_dedupe_catches_repost_with_new_title_but_same_description():
+    desc = "We are seeking a motivated fresher to join our Business Development team as a Pre-sales " \
+           "Associate. In this entry-level role, you will support the sales cycle by researching prospects."
+    a = make_job(id="a", title="BD Associate", description=desc, url="https://a.com/1")
+    b = make_job(id="b", title="BD Representative", description=desc, url="https://a.com/2")
+    assert len(dedupe([a, b])) == 1
+
+
+def test_dedupe_keeps_short_generic_descriptions_apart():
+    a = make_job(id="a", title="Sales Intern", description="Apply now", url="https://a.com/1")
+    b = make_job(id="b", title="HR Intern", description="Apply now", url="https://a.com/2")
+    assert len(dedupe([a, b])) == 2
+
+
+@pytest.mark.parametrize("title,company,expected", [
+    ("demooo", "Test", True), ("deomm", "Acme", True), ("Test", "Acme", True),
+    ("QA Test Engineer Intern", "Acme", False), ("Data Analyst Intern", "Test", True),
+    ("Demo Engineer Trainee", "Acme", False),
+])
+def test_is_junk(title, company, expected):
+    from scraper.filters import is_junk
+    assert is_junk(title, company) is expected
+
+
+def test_keep_fresher_india_drops_senior_even_if_flagged_entry_level():
+    from scraper.main import keep_fresher_india
+    senior = make_job(title="Assistant Manager / Senior Engineer", extra={"experience_level": "entry_level"})
+    junior = make_job(id="y", title="Jr Developer", url="https://a.com/2")
+    assert [j.id for j in keep_fresher_india([senior, junior])] == ["y"]
+
+
+def test_senior_with_underscore_prefix_is_caught():
+    assert not is_fresher("IN_RBAI_Senior Process Engineer Trainee", "")
+    assert not is_fresher("BGSW_SAP_REFX_Consultant", "freshers")
