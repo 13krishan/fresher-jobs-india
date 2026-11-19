@@ -2,6 +2,8 @@
 
 Run:  python -m scraper.main
 """
+import csv
+import io
 import json
 import logging
 from datetime import datetime, timezone
@@ -20,6 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
 JOBS_FILE = DATA_DIR / "jobs.json"
 META_FILE = DATA_DIR / "meta.json"
+CSV_FILE = DATA_DIR / "jobs.csv"  # same rows as jobs.json, for the Google Sheet (IMPORTDATA)
+CSV_COLUMNS = ("title", "company", "location", "city", "role", "job_type", "source", "posted_at", "url")
 CACHE_FILE = ROOT / "data" / "tag_cache.json"
 STORE_FILE = ROOT / "data" / "jobs_store.json"
 USAGE_LOG = ROOT / "data" / "usage_log.jsonl"
@@ -44,6 +48,16 @@ def _write_json(path: Path, data) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(path.suffix + ".tmp")
     tmp.write_text(json.dumps(data, ensure_ascii=False, indent=1))
+    tmp.replace(path)
+
+
+def _write_csv(path: Path, rows: list[dict]) -> None:
+    buf = io.StringIO()
+    writer = csv.DictWriter(buf, fieldnames=CSV_COLUMNS, extrasaction="ignore")
+    writer.writeheader()
+    writer.writerows(rows)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(buf.getvalue())
     tmp.replace(path)
 
 
@@ -81,7 +95,9 @@ def run() -> dict:
         "llm_output_tokens": usage.output_tokens, "llm_posts_tagged": usage.posts_tagged,
     }
     check_not_shrunk(len(tagged), _read_json(META_FILE, {}).get("published", 0))
-    _write_json(JOBS_FILE, [j.to_public_dict() for j in tagged])
+    public = [j.to_public_dict() for j in tagged]
+    _write_json(JOBS_FILE, public)
+    _write_csv(CSV_FILE, public)
     _write_json(META_FILE, stats)
     _write_json(STORE_FILE, to_records(unique))
     _write_json(CACHE_FILE, {k: v for k, v in cache.items() if k in {j.id for j in unique}})
