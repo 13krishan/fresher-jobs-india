@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-19T15:32:46+00:00",
- "raw_today": 8491,
- "india_fresher_today": 610,
- "pool_30d": 495,
+ "updated_at": "2026-11-19T15:34:36+00:00",
+ "raw_today": 7119,
+ "india_fresher_today": 36,
+ "pool_30d": 420,
  "after_dedupe": 418,
  "published": 418,
- "duplicates_removed": 77,
+ "duplicates_removed": 2,
  "by_source": {
   "adzuna": 350,
   "ashby": 1,
@@ -14,8 +14,15 @@
   "smartrecruiters": 16,
   "workday": 35
  },
- "llm_calls": 14,
- "llm_input_tokens": 55552,
- "llm_output_tokens": 19647,
- "llm_posts_tagged": 350
+ "raw_by_source": {
+  "ashby": 400,
+  "greenhouse": 5235,
+  "lever": 659,
+  "smartrecruiters": 805,
+  "workday": 20
+ },
+ "llm_calls": 0,
+ "llm_input_tokens": 0,
+ "llm_output_tokens": 0,
+ "llm_posts_tagged": 0
 }
