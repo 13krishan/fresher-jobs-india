@@ -67,9 +67,8 @@ def _smartrecruiters(company: str) -> list[Job]:
                 company=(j.get("company") or {}).get("name", company),
                 location=", ".join(p for p in (loc.get("city"), loc.get("region"), "India") if p),
                 url=f"https://jobs.smartrecruiters.com/{company}/{j['id']}",
-                description=" ".join(filter(None, [
-                    (j.get("experienceLevel") or {}).get("label", ""),
-                    (j.get("function") or {}).get("label", "")])),
+                # function only: the "Entry Level" label is unreliable and would fool the fresher rule
+                description=(j.get("function") or {}).get("label", ""),
                 posted_at=(j.get("releasedDate") or "")[:10],
                 extra={"experience_level": (j.get("experienceLevel") or {}).get("id", "")},
             ))

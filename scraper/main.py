@@ -64,7 +64,8 @@ def run() -> dict:
     load_dotenv(ROOT / ".env")
     raw = adzuna.fetch() + ats.fetch() + workday.fetch()
     filtered = keep_fresher_india(raw)
-    pool = merge(_read_json(STORE_FILE, []), filtered, datetime.now(timezone.utc).date())
+    live = frozenset(j.source for j in raw)  # sources that returned posts today
+    pool = merge(_read_json(STORE_FILE, []), filtered, datetime.now(timezone.utc).date(), live)
     unique = dedupe(keep_fresher_india(pool))  # re-filter stored posts too, so rule fixes apply to history
     tagged, cache, usage = tag_jobs(unique, _read_json(CACHE_FILE, {}))
     tagged = [j for j in tagged if j.role]  # only publish posts the LLM could tag

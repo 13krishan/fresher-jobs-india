@@ -19,11 +19,15 @@ def from_record(rec: dict) -> Job:
     return Job(**{**fields, "extra": extra})
 
 
-def merge(stored: list[dict], fresh: list[Job], today: date) -> list[Job]:
+def merge(stored: list[dict], fresh: list[Job], today: date,
+          live_sources: frozenset[str] = frozenset()) -> list[Job]:
     """Union of stored and fresh posts. Fresh copies win (newer data) but keep first_seen.
-    Posts not seen for KEEP_DAYS are dropped."""
+    - Sources that ran today (`live_sources`) are authoritative: their stored posts that are not
+      in today's fresh list are dropped (job closed, or no longer passes the filters).
+    - Other stored posts (one-time seed, skipped sources) stay until unseen for KEEP_DAYS."""
     cutoff = (today - timedelta(days=KEEP_DAYS)).isoformat()
-    by_id = {r["id"]: from_record(r) for r in stored if r.get("last_seen", "") >= cutoff}
+    by_id = {r["id"]: from_record(r) for r in stored
+             if r.get("last_seen", "") >= cutoff and r.get("source") not in live_sources}
     for job in fresh:
         old = by_id.get(job.id)
         first_seen = old.extra.get("first_seen") if old else today.isoformat()

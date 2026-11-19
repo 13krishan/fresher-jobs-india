@@ -27,3 +27,15 @@ def test_merge_drops_posts_not_seen_for_30_days():
     stored = to_records(merge([], [job("a")], date(2026, 10, 1)))
     merged = merge(stored, [], date(2026, 11, 15))
     assert merged == []
+
+
+def test_merge_drops_stored_posts_of_live_source_missing_today():
+    stored = to_records(merge([], [job("a"), job("b")], date(2026, 11, 1)))
+    merged = merge(stored, [job("a")], date(2026, 11, 2), live_sources=frozenset({"lever"}))
+    assert [j.id for j in merged] == ["a"]
+
+
+def test_merge_keeps_stored_posts_of_sources_that_did_not_run():
+    stored = to_records(merge([], [job("a")], date(2026, 11, 1)))  # source "lever"
+    merged = merge(stored, [], date(2026, 11, 2), live_sources=frozenset({"greenhouse"}))
+    assert [j.id for j in merged] == ["a"]
