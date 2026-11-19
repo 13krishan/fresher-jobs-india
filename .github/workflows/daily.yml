@@ -29,6 +29,7 @@ jobs:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WORKDAY_ENABLED: "false"   # Workday returns 429 to GitHub's IPs; we respect that
         run: python -m scraper.main
       - name: Commit new data
         run: |

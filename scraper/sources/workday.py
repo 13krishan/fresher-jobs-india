@@ -2,6 +2,7 @@
 robots.txt on these sites allows the career-site paths and publishes sitemaps.
 We send a few small searches per company, once a day."""
 import logging
+import os
 import time
 
 import requests
@@ -64,6 +65,11 @@ MAX_FAILED_SHARE = 0.5
 
 
 def fetch() -> list[Job]:
+    # Workday answers 429 to datacenter IPs (e.g. GitHub Actions). We respect that and do not
+    # retry or rotate IPs: the daily cloud run sets WORKDAY_ENABLED=false.
+    if os.getenv("WORKDAY_ENABLED", "true").lower() == "false":
+        log.info("workday: disabled for this run")
+        return []
     jobs: list[Job] = []
     empty_sites = 0
     for tenant, wd, site in SITES:
