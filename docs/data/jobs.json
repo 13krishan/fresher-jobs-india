@@ -1,5 +1,31 @@
 [
  {
+  "id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+  "source": "ashby",
+  "title": "Product User Research, Intern",
+  "company": "Sarvam",
+  "location": "Bengaluru",
+  "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+  "posted_at": "2026-11-20",
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Internship",
+  "snippet": "ABOUT SARVAM AI Sarvam AI is building India's sovereign AI stack, spanning foundational models, infrastructure and applications. Our mission is to make powerful AI accessible and useful for India, building technology that works across languages, industries and real-world use case"
+ },
+ {
+  "id": "greenhouse:rubrik:8166523",
+  "source": "greenhouse",
+  "title": "Software Engineer - Winter Intern",
+  "company": "Rubrik",
+  "location": "Bangalore",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+  "posted_at": "2026-11-19",
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship",
+  "snippet": "ABOUT THE JOB We are looking for a Software Engineer - Intern to join our team. We believe in giving engineers responsibility, not tasks. Our goal is to motivate and challenge people to do their best work. To do that, we have a very fluid structure and give people the flexibility"
+ },
+ {
   "id": "greenhouse:stripe:8131339",
   "source": "greenhouse",
   "title": "Operations Associate, Apprenticeship",
@@ -4378,19 +4404,6 @@
   "role": "Customer Support",
   "city": "Hyderabad",
   "job_type": "Full-time",
-  "snippet": ""
- },
- {
-  "id": "lever:paytm:0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-  "source": "lever",
-  "title": "Backend - Intern ( SEA & Europe)",
-  "company": "Paytm",
-  "location": "Noida, Uttar Pradesh",
-  "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-  "posted_at": "",
-  "role": "Software Engineering",
-  "city": "Noida",
-  "job_type": "Internship",
   "snippet": ""
  },
  {

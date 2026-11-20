@@ -124,11 +124,6 @@
   "city": "Hyderabad",
   "job_type": "Full-time"
  },
- "lever:paytm:0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8": {
-  "role": "Software Engineering",
-  "city": "Noida",
-  "job_type": "Internship"
- },
  "lever:paytm:426a6834-1397-4e65-94af-69874c790805": {
   "role": "HR & Recruiting",
   "city": "Gurugram",
@@ -1898,5 +1893,15 @@
   "role": "Operations & Supply Chain",
   "city": "Unknown",
   "job_type": "Full-time"
+ },
+ "greenhouse:rubrik:8166523": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72": {
+  "role": "UI/UX & Design",
+  "city": "Bengaluru",
+  "job_type": "Internship"
  }
 }
