@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-21T07:35:59+00:00",
- "raw_today": 7131,
+ "updated_at": "2026-11-22T07:17:45+00:00",
+ "raw_today": 7129,
  "india_fresher_today": 21,
  "pool_30d": 384,
  "after_dedupe": 381,
@@ -15,8 +15,8 @@
   "workday": 35
  },
  "raw_by_source": {
-  "ashby": 407,
-  "greenhouse": 5268,
+  "ashby": 406,
+  "greenhouse": 5267,
   "lever": 657,
   "smartrecruiters": 799
  },
