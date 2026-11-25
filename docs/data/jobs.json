@@ -13,17 +13,17 @@
   "snippet": "ABOUT SARVAM AI Sarvam AI is building India's sovereign AI stack, spanning foundational models, infrastructure and applications. Our mission is to make powerful AI accessible and useful for India, building technology that works across languages, industries and real-world use case"
  },
  {
-  "id": "greenhouse:stripe:8131339",
+  "id": "greenhouse:stripe:8031833",
   "source": "greenhouse",
-  "title": "Operations Associate, Apprenticeship",
+  "title": "Software Engineer, Intern",
   "company": "Stripe",
   "location": "Bengaluru",
-  "url": "https://stripe.com/jobs/search?gh_jid=8131339",
+  "url": "https://stripe.com/jobs/search?gh_jid=8031833",
   "posted_at": "2026-11-19",
-  "role": "Operations & Supply Chain",
+  "role": "Software Engineering",
   "city": "Bengaluru",
   "job_type": "Internship",
-  "snippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our missio"
+  "snippet": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for an"
  },
  {
   "id": "adzuna:5970906046",
@@ -4483,6 +4483,19 @@
   "city": "Noida",
   "job_type": "Internship",
   "snippet": "Talent Acquisition Intern - Noida Noida, Uttar Pradesh HR – Recruitment / Intern / On-site Location: Noida Duration: 6 months Working days: 5 days work from office About Paytm Group: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of "
+ },
+ {
+  "id": "lever:paytm:088a2cf3-101d-4ce8-91a7-880551d9cfd1",
+  "source": "lever",
+  "title": "Talent Acquisition Intern- Product  hiring",
+  "company": "Paytm",
+  "location": "Noida, Uttar Pradesh",
+  "url": "https://jobs.lever.co/paytm/088a2cf3-101d-4ce8-91a7-880551d9cfd1",
+  "posted_at": "",
+  "role": "HR & Recruiting",
+  "city": "Noida",
+  "job_type": "Internship",
+  "snippet": "About Paytm Paytm is India's leading digital payments and financial services company, serving millions of consumers and merchants across the country. Our Product teams build the experiences that power payments, commerce, and financial services at scale. Hiring great product talen"
  },
  {
   "id": "lever:fampay:213870db-ddfd-4519-9a57-54691d89cca5",

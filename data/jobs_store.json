@@ -12,11 +12,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "greenhouse:rubrik:8305308",
@@ -31,11 +31,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "greenhouse:rubrik:8345283",
@@ -50,11 +50,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "greenhouse:rubrik:8166537",
@@ -69,30 +69,30 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
-  "id": "greenhouse:stripe:8131339",
+  "id": "greenhouse:stripe:8031833",
   "source": "greenhouse",
-  "title": "Operations Associate, Apprenticeship",
+  "title": "Software Engineer, Intern",
   "company": "Stripe",
   "location": "Bengaluru",
-  "url": "https://stripe.com/jobs/search?gh_jid=8131339",
-  "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe was built with simplicity in mind. We strive to deliver frictionless experiences for all of our users, whether they are an Independent Business, Startup, SMB, or Enterprise, and our mission is to provide all Stripe Users with the best support experience possible. Today, Stripe handles over a million support cases per year and processes millions of internal transactions. We're going to achieve excellence by thinking of support in a novel, solution-oriented way, and viewing operations as an integral enabler of all of Stripe's growth. Stripe has unique operational problems resulting from both our type of scale and the type of businesses we partner with as a result of \"growing the GDP of the Internet.\" Stripes leverage understanding of our products, the financial industry and money movement, and our processes to support both internal and external users. Doing so requires us to invest significant resources into building this experience ourselves. Wh",
+  "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+  "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don’t tend to",
   "posted_at": "2026-11-19",
   "role": "",
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "greenhouse:zscaler:5261002007",
@@ -107,11 +107,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:zeta:d7608271-a46f-4783-b5a9-05737398d320",
@@ -126,11 +126,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:426a6834-1397-4e65-94af-69874c790805",
@@ -145,11 +145,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
@@ -164,11 +164,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:9d497980-2032-440c-8bac-63fb53938acc",
@@ -183,11 +183,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80",
@@ -202,11 +202,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:6d7551f7-34c3-46a2-a4e4-18b29f15338c",
@@ -221,11 +221,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:88e8b698-8f03-4e09-9581-168f831fb3af",
@@ -240,11 +240,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:paytm:95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
@@ -259,11 +259,30 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
+ },
+ {
+  "id": "lever:paytm:088a2cf3-101d-4ce8-91a7-880551d9cfd1",
+  "source": "lever",
+  "title": "Talent Acquisition Intern- Product  hiring",
+  "company": "Paytm",
+  "location": "Noida, Uttar Pradesh",
+  "url": "https://jobs.lever.co/paytm/088a2cf3-101d-4ce8-91a7-880551d9cfd1",
+  "description": "About Paytm Paytm is India's leading digital payments and financial services company, serving millions of consumers and merchants across the country. Our Product teams build the experiences that power payments, commerce, and financial services at scale. Hiring great product talent is central to that mission, and this internship puts you right at the center of it. About the Role We are looking for a driven and curious Talent Acquisition Intern to support end-to-end hiring for our Product function. You will work closely with the Talent Acquisition team and hiring managers to source, screen, and engage candidates. This is a hands-on role with real ownership, ideal for someone who wants to build a career in recruitment or HR. Roles and Responsibilities Sourcing candidates: Identify and build pipelines of product talent using LinkedIn, job portals, internal databases, referrals, and social platforms. Job description support: Work with recruiters and hiring managers to draft and refine job descriptions for product roles. Resume screening: Review applications, shortlist candidates against role requirements, and maintain a quality pipeline. Candidate outreach: Reach out to prospects through email, LinkedIn, and calls to pitch opportunities and gauge interest. Initial screening calls: Conduct preliminary conversations to assess experience, expectations, notice period, and cultural fit. Interview coordination: Schedule interviews across candidates, interviewers, and hiring managers, an",
+  "posted_at": "",
+  "role": "",
+  "city": "",
+  "job_type": "",
+  "extra": {
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "lever:fampay:213870db-ddfd-4519-9a57-54691d89cca5",
@@ -278,11 +297,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "ashby:sarvam:bba82f34-1544-421e-a393-3edd8a5f4cb2",
@@ -297,11 +316,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
@@ -316,11 +335,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "smartrecruiters:744000161763598",
@@ -336,11 +355,11 @@
   "job_type": "",
   "extra": {
    "experience_level": "associate",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   },
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24"
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25"
  },
  {
   "id": "adzuna:5940626913",
