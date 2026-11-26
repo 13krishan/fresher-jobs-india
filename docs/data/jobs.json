@@ -1,5 +1,18 @@
 [
  {
+  "id": "greenhouse:zscaler:5261002007",
+  "source": "greenhouse",
+  "title": "Business Support Analyst (LMS Admin)",
+  "company": "Zscaler",
+  "location": "Bangalore, IND",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261002007",
+  "posted_at": "2026-11-25",
+  "role": "Operations & Supply Chain",
+  "city": "Bengaluru",
+  "job_type": "Full-time",
+  "snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applicatio"
+ },
+ {
   "id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
   "source": "ashby",
   "title": "Product User Research, Intern",
@@ -11,19 +24,6 @@
   "city": "Bengaluru",
   "job_type": "Internship",
   "snippet": "ABOUT SARVAM AI Sarvam AI is building India's sovereign AI stack, spanning foundational models, infrastructure and applications. Our mission is to make powerful AI accessible and useful for India, building technology that works across languages, industries and real-world use case"
- },
- {
-  "id": "greenhouse:stripe:8031833",
-  "source": "greenhouse",
-  "title": "Software Engineer, Intern",
-  "company": "Stripe",
-  "location": "Bengaluru",
-  "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-  "posted_at": "2026-11-19",
-  "role": "Software Engineering",
-  "city": "Bengaluru",
-  "job_type": "Internship",
-  "snippet": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for an"
  },
  {
   "id": "adzuna:5970906046",
@@ -2808,19 +2808,6 @@
   "snippet": "Product Management Intern – Identity Resilience About the Team & Role The Product Management team at Rubrik drives forward our vision of delivering a market-leading platform that addresses the world’s most critical cyber resilience and data security challenges. The Identity Resil"
  },
  {
-  "id": "greenhouse:zscaler:5261002007",
-  "source": "greenhouse",
-  "title": "Business Support Analyst (LMS Admin)",
-  "company": "Zscaler",
-  "location": "Bangalore, IND",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261002007",
-  "posted_at": "2026-11-04",
-  "role": "Operations & Supply Chain",
-  "city": "Bengaluru",
-  "job_type": "Full-time",
-  "snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applicatio"
- },
- {
   "id": "adzuna:5952913908",
   "source": "adzuna",
   "title": "IS Intern",
@@ -4379,6 +4366,19 @@
   "city": "Gurugram",
   "job_type": "Full-time",
   "snippet": "NEOLYTIX Management Trainee, Finance (FP&A) Finance & Accounts | Fresher Opportunity | Gurugram QUALIFICATION MBA in Finance EXPERIENCE Fresher LOCATION Gurugram (Onsite) SHIFT 1:30 PM–10:30 PM IST REPORTS INTO Sr. Manager ⚠ Shift: This role operates on a 1:30 PM to 10:30 PM IST "
+ },
+ {
+  "id": "lever:zeta:331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+  "source": "lever",
+  "title": "Intern",
+  "company": "Zeta",
+  "location": "Bangalore - WF",
+  "url": "https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+  "posted_at": "",
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship",
+  "snippet": "About Zeta Zeta is a Next-Gen Banking Tech company that empowers banks and fintechs to launch banking products for the future. It was founded by Bhavin Turakhia and Ramki Gaddipati in 2015. Our flagship processing platform - Zeta Tachyon - is the industry’s first modern, cloud-na"
  },
  {
   "id": "lever:zeta:d7608271-a46f-4783-b5a9-05737398d320",

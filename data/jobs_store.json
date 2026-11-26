@@ -12,11 +12,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "greenhouse:rubrik:8305308",
@@ -31,11 +31,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "greenhouse:rubrik:8345283",
@@ -50,11 +50,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "greenhouse:rubrik:8166537",
@@ -69,30 +69,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
- },
- {
-  "id": "greenhouse:stripe:8031833",
-  "source": "greenhouse",
-  "title": "Software Engineer, Intern",
-  "company": "Stripe",
-  "location": "Bengaluru",
-  "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-  "description": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible. Though people at Stripe don’t tend to",
-  "posted_at": "2026-11-19",
-  "role": "",
-  "city": "",
-  "job_type": "",
-  "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
-  },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "greenhouse:zscaler:5261002007",
@@ -102,16 +83,35 @@
   "location": "Bangalore, IND",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261002007",
   "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Business Support Analyst (L1) — LMS & AI Specialist to join our team. This is a Bangalore, India (Hybrid) role, reporting to the Manager, Business Applications Support in the IT / Digital Employee Experience department. This position is designed for an entry-level professional eager to eliminate repetitive manual work by building AI agents and automating enterprise workflows. You will deliver first-line plat",
-  "posted_at": "2026-11-04",
+  "posted_at": "2026-11-25",
   "role": "",
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
+ },
+ {
+  "id": "lever:zeta:331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+  "source": "lever",
+  "title": "Intern",
+  "company": "Zeta",
+  "location": "Bangalore - WF",
+  "url": "https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+  "description": "About Zeta Zeta is a Next-Gen Banking Tech company that empowers banks and fintechs to launch banking products for the future. It was founded by Bhavin Turakhia and Ramki Gaddipati in 2015. Our flagship processing platform - Zeta Tachyon - is the industry’s first modern, cloud-native, and fully API-enabled stack that brings together issuance, processing, lending, core banking, fraud & risk, and many more capabilities as a single-vendor stack. 20M+ cards have been issued on our platform globally. Zeta is actively working with the largest Banks and Fintechs in multiple global markets transforming customer experience for multi-million card portfolios. Zeta has over 1700+ employees - with over 70% roles in R&D - across locations in the US, EMEA, and Asia. We raised $280 million at a $1.5 billion valuation from Softbank, Mastercard, and other investors in 2021. Learn more @ www.zeta.tech, careers.zeta.tech, Linkedin, Twitter",
+  "posted_at": "",
+  "role": "",
+  "city": "",
+  "job_type": "",
+  "extra": {
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
+  },
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:zeta:d7608271-a46f-4783-b5a9-05737398d320",
@@ -126,11 +126,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:426a6834-1397-4e65-94af-69874c790805",
@@ -145,11 +145,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
@@ -164,11 +164,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:9d497980-2032-440c-8bac-63fb53938acc",
@@ -183,11 +183,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80",
@@ -202,11 +202,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:6d7551f7-34c3-46a2-a4e4-18b29f15338c",
@@ -221,11 +221,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:88e8b698-8f03-4e09-9581-168f831fb3af",
@@ -240,11 +240,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
@@ -259,11 +259,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:paytm:088a2cf3-101d-4ce8-91a7-880551d9cfd1",
@@ -278,11 +278,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "lever:fampay:213870db-ddfd-4519-9a57-54691d89cca5",
@@ -297,11 +297,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "ashby:sarvam:bba82f34-1544-421e-a393-3edd8a5f4cb2",
@@ -316,11 +316,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
@@ -335,11 +335,11 @@
   "city": "",
   "job_type": "",
   "extra": {
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "smartrecruiters:744000161763598",
@@ -355,11 +355,11 @@
   "job_type": "",
   "extra": {
    "experience_level": "associate",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25"
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
   },
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25"
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
  },
  {
   "id": "adzuna:5940626913",

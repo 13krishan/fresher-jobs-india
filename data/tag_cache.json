@@ -1899,14 +1899,14 @@
   "city": "Noida",
   "job_type": "Internship"
  },
- "greenhouse:stripe:8031833": {
-  "role": "Software Engineering",
-  "city": "Bengaluru",
-  "job_type": "Internship"
- },
  "lever:paytm:088a2cf3-101d-4ce8-91a7-880551d9cfd1": {
   "role": "HR & Recruiting",
   "city": "Noida",
+  "job_type": "Internship"
+ },
+ "lever:zeta:331526ff-cb2d-4b93-a812-ff37ebb7edc2": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
   "job_type": "Internship"
  }
 }
