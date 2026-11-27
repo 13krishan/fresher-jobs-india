@@ -1,5 +1,31 @@
 [
  {
+  "id": "greenhouse:groww:5049076101",
+  "source": "greenhouse",
+  "title": "Content - Intern",
+  "company": "Groww",
+  "location": "Bengaluru, India",
+  "url": "https://job-boards.eu.greenhouse.io/groww/jobs/5049076101",
+  "posted_at": "2026-11-26",
+  "role": "Content & Writing",
+  "city": "Bengaluru",
+  "job_type": "Internship",
+  "snippet": "About Groww: We are a passionate group of people focused on making financial services accessible to every Indian through a multi-product platform. Each day, we help millions of customers take charge of their financial journey. Customer obsession is in our DNA. Every product, ever"
+ },
+ {
+  "id": "greenhouse:rubrik:8413157",
+  "source": "greenhouse",
+  "title": "Software Engineer (UI) - Winter Intern",
+  "company": "Rubrik",
+  "location": "Bangalore",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+  "posted_at": "2026-11-26",
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship",
+  "snippet": "About Company Rubrik (NYSE: RBRK) is on a mission to secure the world’s data. With Zero Trust Data Security™, we help organizations achieve business resilience against cyberattacks, malicious insiders, and operational disruptions. Rubrik Security Cloud, powered by advanced AI and"
+ },
+ {
   "id": "greenhouse:zscaler:5261002007",
   "source": "greenhouse",
   "title": "Business Support Analyst (LMS Admin)",
@@ -4383,7 +4409,7 @@
  {
   "id": "lever:zeta:d7608271-a46f-4783-b5a9-05737398d320",
   "source": "lever",
-  "title": "Technical Support Engineer I",
+  "title": "Technical Support Engineer I/II",
   "company": "Zeta",
   "location": "Hyderabad",
   "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
@@ -4446,6 +4472,19 @@
   "snippet": ""
  },
  {
+  "id": "lever:paytm:c6b86cd8-7f07-4469-992b-8968ed92739e",
+  "source": "lever",
+  "title": "Talent  Acquisition Internship",
+  "company": "Paytm",
+  "location": "Gurugram, Haryana",
+  "url": "https://jobs.lever.co/paytm/c6b86cd8-7f07-4469-992b-8968ed92739e",
+  "posted_at": "",
+  "role": "HR & Recruiting",
+  "city": "Gurugram",
+  "job_type": "Internship",
+  "snippet": "About Us: Paytm is India's leading financial services company that offers full-stack payments & financial solutions to consumers, offline merchants and online platforms. The company is on a mission to bring half a billion Indians into the mainstream economy through payments, comm"
+ },
+ {
   "id": "lever:paytm:6d7551f7-34c3-46a2-a4e4-18b29f15338c",
   "source": "lever",
   "title": "Talent Acquisition Intern",
@@ -4496,6 +4535,19 @@
   "city": "Noida",
   "job_type": "Internship",
   "snippet": "About Paytm Paytm is India's leading digital payments and financial services company, serving millions of consumers and merchants across the country. Our Product teams build the experiences that power payments, commerce, and financial services at scale. Hiring great product talen"
+ },
+ {
+  "id": "lever:fampay:cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+  "source": "lever",
+  "title": "Backend Engineering Intern",
+  "company": "Fampay",
+  "location": "Bengaluru",
+  "url": "https://jobs.lever.co/fampay/cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+  "posted_at": "",
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship",
+  "snippet": "About this Role We've got your back if you've got ours! We take our internship program very seriously and hope to get our future team members from among our interns. You can take up as challenging a work as you are capable of. Our backend team is very strong, and you will get to "
  },
  {
   "id": "lever:fampay:213870db-ddfd-4519-9a57-54691d89cca5",

@@ -1908,5 +1908,25 @@
   "role": "Software Engineering",
   "city": "Bengaluru",
   "job_type": "Internship"
+ },
+ "greenhouse:groww:5049076101": {
+  "role": "Content & Writing",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "greenhouse:rubrik:8413157": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
+ },
+ "lever:paytm:c6b86cd8-7f07-4469-992b-8968ed92739e": {
+  "role": "HR & Recruiting",
+  "city": "Gurugram",
+  "job_type": "Internship"
+ },
+ "lever:fampay:cf014ef0-218a-4041-a238-ff91c7b9a5bc": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Internship"
  }
 }
