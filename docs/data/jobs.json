@@ -39,19 +39,6 @@
   "snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applicatio"
  },
  {
-  "id": "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-  "source": "ashby",
-  "title": "Product User Research, Intern",
-  "company": "Sarvam",
-  "location": "Bengaluru",
-  "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-  "posted_at": "2026-11-20",
-  "role": "UI/UX & Design",
-  "city": "Bengaluru",
-  "job_type": "Internship",
-  "snippet": "ABOUT SARVAM AI Sarvam AI is building India's sovereign AI stack, spanning foundational models, infrastructure and applications. Our mission is to make powerful AI accessible and useful for India, building technology that works across languages, industries and real-world use case"
- },
- {
   "id": "adzuna:5970906046",
   "source": "adzuna",
   "title": "Business Development Associate (Freshers)",
@@ -4535,6 +4522,19 @@
   "city": "Noida",
   "job_type": "Internship",
   "snippet": "About Paytm Paytm is India's leading digital payments and financial services company, serving millions of consumers and merchants across the country. Our Product teams build the experiences that power payments, commerce, and financial services at scale. Hiring great product talen"
+ },
+ {
+  "id": "lever:meesho:73db1822-f3de-4f9f-a2b3-944ea0b03702",
+  "source": "lever",
+  "title": "Software Engineer I - Backend  (Kirana Club)",
+  "company": "Meesho",
+  "location": "Bangalore, Karnataka",
+  "url": "https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702",
+  "posted_at": "",
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time",
+  "snippet": "About the Team We're a small engineering team, so scope is wide and ownership is real. You'll ship to production in your first week, and every week after that. Every engineering role here is back-end-leaning fullstack. Most of your time goes into services, data models and APIs, b"
  },
  {
   "id": "lever:fampay:cf014ef0-218a-4041-a238-ff91c7b9a5bc",

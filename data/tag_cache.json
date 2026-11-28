@@ -1889,11 +1889,6 @@
   "city": "Unknown",
   "job_type": "Full-time"
  },
- "ashby:sarvam:0a5bf81d-3370-47e6-88f4-14aa5102ba72": {
-  "role": "UI/UX & Design",
-  "city": "Bengaluru",
-  "job_type": "Internship"
- },
  "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80": {
   "role": "UI/UX & Design",
   "city": "Noida",
@@ -1928,5 +1923,10 @@
   "role": "Software Engineering",
   "city": "Bengaluru",
   "job_type": "Internship"
+ },
+ "lever:meesho:73db1822-f3de-4f9f-a2b3-944ea0b03702": {
+  "role": "Software Engineering",
+  "city": "Bengaluru",
+  "job_type": "Full-time"
  }
 }
